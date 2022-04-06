@@ -21,7 +21,6 @@ namespace GuessNumber
                     if (menyVal != 1)
                     {
                         Console.WriteLine("\nFel sifferval! Du kan bara välja siffrorna 1 eller 2.");
-                    
                     }
 
                     {
